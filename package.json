@@ -58,6 +58,7 @@
     "coveralls": "./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly",
     "pretest": "standard",
     "test": "mocha"
+    "start": "node index.js"
   },
   "license": "MIT"
 }
